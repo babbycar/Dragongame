@@ -1,3 +1,5 @@
+# this is my first version of the dragongame i will make more changes in the future
+
 import math
 
 WIDTH = 800
