@@ -1,2 +1,3 @@
 # Dragongame
-A dragon game that i've made.
+A game where you are trying to steal dragon's eggs, without getting caught. 
+Requires python and pygame
